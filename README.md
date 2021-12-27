@@ -131,4 +131,5 @@ Simply provide slides as elements directly within the `x-data="Splide"` element.
 Alpine Splide and Splide are released under the MIT license. Splide code and trademarks remain with the original author Naotoshi Fujita.
 
 Alpine Splide - © 2021 Alistair Shepherd
+
 Splide - © 2021 Naotoshi Fujita

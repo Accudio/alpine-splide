@@ -1,1 +1,1 @@
-export { Splide } from './components/Splide';
+export { Splide as default } from './components/Splide';

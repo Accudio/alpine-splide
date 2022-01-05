@@ -11,7 +11,7 @@ export function Splide( opts = {} ) {
     index: 0,
 
     init() {
-      this.splideInit()
+      this.splideInit();
     },
 
     splideInit() {

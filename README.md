@@ -19,7 +19,7 @@ Make sure to also [include Splide CSS](https://splidejs.com/guides/getting-start
 
 If you load Alpine from a CDN like [jsdelivr](https://www.jsdelivr.com/package/npm/alpine-splide) or [unpkg](https://unpkg.com/alpine-splide) with a script tag you can load Alpine Splide via the same method:
 ```html
-<script src="https://unpkg.com/alpine-splide@0.9.x/dist/js/alpine-splide.script.min.js"></script>
+<script src="https://unpkg.com/alpine-splide@1.x.x/dist/js/alpine-splide.script.js"></script>
 <script src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
 ```
 

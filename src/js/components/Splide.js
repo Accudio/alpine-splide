@@ -8,7 +8,10 @@ export function Splide( opts = {} ) {
       ...opts,
     },
     splide: null,
-    index: 0,
+
+    get index() {
+      return this.splide ? this.splide.index : 0
+    },
 
     init() {
       this.splideInit();
@@ -29,11 +32,6 @@ export function Splide( opts = {} ) {
 
       // initialise splide
       this.splide = new SplideLib( el, this.config.options );
-
-      // add listeners
-      this.splide.on( "move", index => {
-        this.index = index;
-      } );
 
       // mount
       this.splide.mount();

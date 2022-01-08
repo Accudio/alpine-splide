@@ -1,6 +1,6 @@
 {
   "name": "alpine-splide",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The Alpine component for Splide.",
   "author": "Alistair Shepherd <alistair@accudio.com>",
   "license": "MIT",

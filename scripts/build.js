@@ -10,7 +10,7 @@ async function build( src, opts ) {
     bundle     : true,
     outfile    : `./dist/js/${ name }`,
     format     : opts.format || 'esm',
-    minify     : opts.minify || true,
+    minify     : opts.minify ?? true,
     target     : [ 'es2019' ],
   } );
 }

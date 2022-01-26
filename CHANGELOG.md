@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.4 &mdash; 2022/01/26
+
+- Fixed CommonJS build being minified unnecessarily
+- Updated Splide version to 3.6.12
+
 ## 1.0.3 &mdash; 2022/01/08
 
 - Tweaked method of tracking index within Alpine, less fragile now

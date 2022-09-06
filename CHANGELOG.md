@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.0 &mdash; 2022/09/06
+
+- Updated Splide version to 4.0.17
+
 ## 1.0.4 &mdash; 2022/01/26
 
 - Fixed CommonJS build being minified unnecessarily

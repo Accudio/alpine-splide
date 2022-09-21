@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.0 &mdash; 2022/09/21
+
+- Updated Splide version to 4.1.2
+
 ## 1.1.0 &mdash; 2022/09/06
 
 - Updated Splide version to 4.0.17

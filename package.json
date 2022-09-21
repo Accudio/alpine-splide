@@ -1,6 +1,6 @@
 {
   "name": "alpine-splide",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "The Alpine component for Splide.",
   "author": "Alistair Shepherd <alistair@accudio.com>",
   "license": "MIT",
@@ -32,7 +32,7 @@
   ],
   "devDependencies": {
     "@skypack/package-check": "^0.2.2",
-    "@splidejs/splide": "^4.0.17",
+    "@splidejs/splide": "^4.1.2",
     "chokidar": "^3.5.2",
     "esbuild": "^0.13.15",
     "eslint": "^8.3.0"

@@ -8,7 +8,7 @@ The [Alpine](https://github.com/alpinejs/alpine) component for the [Splide](http
 
 ## Installation
 
-There are three recommended methods of loading Alpine Splide. Adding a `script` tag with a [CDN](#cdn), importing it into your bundle with [npm](#npm), [importing with `script type="module"`](#module-script), or adding a `script` tag with a [CDN](#cdn).
+There are three recommended methods of loading Alpine Splide. Adding a `script` tag with a [CDN](#cdn), [importing with `script type="module"`](#module-script) or importing it into your bundle with [npm](#npm).
 You could also download `src/js/components/Splide.js` and include it directly into your project.
 
 Which method you use will depend on how you prefer to use and import Alpine.js.
